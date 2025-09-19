@@ -132,7 +132,7 @@ code.txt
 ### a) Outils utilisés
 - **Gestion** : Trello, GitHub  
 - **Conception** : Mammouth.ai 
-- **Développement** : Python, Mediapipe  
+- **Développement** : Python, HTML
 - **Présentation** : Canva  
 
 ### b) Sources
