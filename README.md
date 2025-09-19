@@ -5,11 +5,11 @@
 
 ## Équipe
 
-- **DESFORGES Alexandre** – Hardware – [GitHub](#)  
-- **DEVEER Evan** – Software – [GitHub](#)  
-- **MARANT Yohann** – Software – [GitHub](#)  
-- **KURAS Maxime** – Web Developer – [GitHub](#)  
-- **DUMONT Arthur** – Mixte Software&Hardware – [GitHub](#)  
+- **DESFORGES Alexandre** – Hardware –  
+- **DEVEER Evan** – Software – 
+- **MARANT Yohann** – Software – 
+- **KURAS Maxime** – Web Developer –
+- **DUMONT Arthur** – Mixte Software&Hardware –  
 
 ---
 
@@ -107,8 +107,19 @@ code.txt
 
 ## V) Démonstration
 
-- 📑 Capture(s) d’écran ou photo(s) du prototype  
-- 📹 Vidéo de démonstration présentant les fonctionnalités principales (photo, vidéo, détection de gestes, alerte Discord)  
+- 📑 Captures d’écran ou photo du prototype :
+
+![Photo prise par la caméra](image1.png) 
+
+- 📑 Captures d’écran et photos du site :
+
+![page landing](image4.png)
+![page verify](image3.png)
+![page dashboard](image2.png)
+
+- 📑 Captures d’écran et photos de l'interface putty de connexion au raspberry :
+
+![alt text](image5.png)
 
 ---
 
