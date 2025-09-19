@@ -121,6 +121,10 @@ code.txt
 
 ![alt text](image5.png)
 
+- 📑 Captures d’écran et photos de l'interface shell du raspberry :
+
+![alt text](<image 6.png>)
+
 ---
 
 ## VI) Outils & sources
